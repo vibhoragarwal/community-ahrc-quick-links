@@ -1,0 +1,6 @@
+<ahrc = 'www.google.com'>
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+<jnt = 'http://www.jahia.org/jahia/nt/1.0'>
+
+[ahrc:ahrcQuickLinks] > jnt:content, jmix:structuredContent
+
